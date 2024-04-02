@@ -1,0 +1,48 @@
+name: bancolombia
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - lib/icons/home.png
+     - lib/icons/credit-card.png
+     - lib/icons/application.png
+     - lib/icons/user-interface.png
+     - lib/icons/setting.png
+     - lib/icons/bancolombia_icon.png
+     - lib/icons/user.png
+     - lib/icons/padlock.png
+     - lib/icons/shield.png
+     - lib/icons/wallet.png
+     - lib/icons/location.png
+     - lib/icons/money.png
+     - lib/icons/private.png
+     - lib/icons/terms.png
+     - lib/icons/fingerprint-scan.png
+     - lib/icons/register.png
+     
+  
